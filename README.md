@@ -6,6 +6,6 @@
 - Install required dependencies (pwinput)
 - Run "main.py"
 - Enter your email & password
-- Your then will then be printed to console
+- Your token will then be printed to console
 
 # Enjoy!
