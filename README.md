@@ -7,5 +7,7 @@
 - Run "main.py"
 - Enter your email & password
 - Your token will then be printed to console
+- ## OR
+- If you dont have Python installed, run "main.exe" instead
 
 # Enjoy!
